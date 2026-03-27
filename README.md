@@ -86,5 +86,3 @@ The easiest way to deploy your app is with [Expo Application Services (EAS)](htt
 - [EAS Submit](https://docs.expo.dev/submit/introduction/)
 
 ---
-
-If you enjoy using React Native Reusables, please consider giving it a ⭐ on [GitHub](https://github.com/founded-labs/react-native-reusables). Your support means a lot!
